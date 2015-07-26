@@ -1,0 +1,11 @@
+{
+  "require": {
+    "php": ">=5.4.0",
+    "ext-curl": "*",
+    "ext-openssl": "*",
+    "ext-pdo_sqlite": "*",
+    "silex/silex": "~1.3",
+    "symfony/var-dumper": "dev-master"
+  },
+  "name": "statistici-scol-auto"
+}
