@@ -22,7 +22,7 @@ composer install
 php -S localhost:8000
 ```
 
-*Atentie* php.ini trebuie sa contina urmatoarele setari:
+**Atentie** php.ini trebuie sa contina urmatoarele setari:
 
 ```
 max_execution_time = 0
